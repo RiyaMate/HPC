@@ -1,4 +1,5 @@
 # HPC
+![image](https://github.com/user-attachments/assets/6b2e0c05-fe42-4167-b56e-47e474b34d9f)
 
 Introduction
 Background
@@ -20,5 +21,5 @@ Steps:
 5.	Conclusion: Synthesizing results and evaluating the effectiveness of the methodology.
 
 
-![image](https://github.com/user-attachments/assets/6b2e0c05-fe42-4167-b56e-47e474b34d9f)
+
 
