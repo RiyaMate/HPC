@@ -18,3 +18,7 @@ Steps:
 ○	Single GPU Implementation: Baseline model training on a single GPU.
 ○	Distributed Data Parallelism (DDP): Scaling model training across multiple GPUs for improved efficiency and performance.
 5.	Conclusion: Synthesizing results and evaluating the effectiveness of the methodology.
+
+
+
+![image](https://github.com/user-attachments/assets/7b6a91ba-5a52-4f13-a68b-f9ff70c848ca)
